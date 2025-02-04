@@ -36,7 +36,7 @@ Internet Archive (https://archive.org)
 
 
 
-Note: Project Gutenberg also has an HTML version of this
+﻿Note: Project Gutenberg also has an HTML version of this
       file which includes the original illustrations.
       See 62743-h.htm or 62743-h.zip:
       (http://www.gutenberg.org/files/62743/62743-h/62743-h.htm)
